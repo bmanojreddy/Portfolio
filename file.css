@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background: #007bff;
+  color: white;
+}
+
+
+
+#skills .col-md-3 h4 {
+  padding: 20px;
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+#projects .card {
+  margin-bottom: 20px;
+}
+
+footer {
+  background: #343a40;
+  color: white;
+}
